@@ -27,6 +27,11 @@ $work_link    = get_post_type_archive_link('work');;
 </div><!-- l-mv -->
 
 <div class="l-top">
+<section class="l-top__table p-top-table">
+  <div class="p-top-table__inner l-inner">
+    
+  </div>
+</section><!-- p-top-table -->
 </div><!-- l-top -->
 
 <?php get_footer(); ?>

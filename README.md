@@ -2,13 +2,13 @@
 ## WordPressサイトgulpテンプレートファイル
 ## How to Use
 ```
-$ git clone https://github.com/yuta0824/themes-wp-gulp-flocss
+$ git clone https://github.com/yuta0824/themes-wp-gulp
 ```
 ```
 $ localにWordPress構築themesファイルを削除して、themes-wp-gulpをファイル名themesに変更して設置
 ```
 ```
-$ ローカルサーバーのドメインをgulpfile.js 5行目で変更
+$ ローカルサーバーのドメインをgulpfile.js 179行目で変更
 ```
 ```
 $ cd themes/_gulp

@@ -30,7 +30,7 @@ $work_link    = get_post_type_archive_link('work');;
   </div>
 </header><!-- l-header -->
 
-<a class="c-drawer-button js-drawer-button u-hidden-pc">
+<a class="c-drawer-button js-drawer-button u-hidden-overTab">
   <span class="c-drawer-button__line c-drawer-button__line--top"></span>
   <span class="c-drawer-button__line c-drawer-button__line--center"></span>
   <span class="c-drawer-button__line c-drawer-button__line--bottom"></span>

@@ -4,22 +4,27 @@
 //--------------------------
 @use "foundation";
 
-// component
-//--------------------------
-@use "./component/**/*.scss";
-
 // layout
 //--------------------------
 @use "./layout/**/*.scss";
+
+// component
+//--------------------------
+@use "./component/**/*.scss";
 
 // project
 //--------------------------
 @use "./project/**/*.scss";
 
+// library
+//--------------------------
+@use './library/**/*.scss';
+
+// wordpress
+//--------------------------
+@use './wordpress/**/*.scss';
+
 // utility
 //--------------------------
 @use "./utility/**/*.scss";
 
-// library
-//--------------------------
-@use './library/**/*.scss';
