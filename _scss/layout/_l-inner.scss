@@ -1,0 +1,20 @@
+@use '../function' as *;
+
+.l-inner {
+  max-width: $layout-inner + $pd-pc * 2;
+  height: inherit;
+  margin: 0 auto;
+  padding: 0 $pd-pc;
+
+  @include mq("tab") {
+    padding-right: $pd-tab;
+    padding-left: $pd-tab;
+  }
+
+  @include mq("sp") {
+    padding-right: $pd-sp;
+    padding-left: $pd-sp;
+  }
+}
+
+
